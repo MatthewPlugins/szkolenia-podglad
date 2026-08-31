@@ -1,0 +1,4 @@
+:HL["/szkolenia-podglad/_next/static/chunks/0p9ecqrayw0ls.css","style"]
+:HL["/szkolenia-podglad/fonts/Geist-subset.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+:HL["/szkolenia-podglad/fonts/GeistMono-subset.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}},"staleTime":300,"buildId":"G1oA0Yn9rFFfAn9_BTXL8"}
